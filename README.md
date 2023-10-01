@@ -1,5 +1,5 @@
 # CatchTheRain
-A Simple C++ SFML Game (My very first game). I've provided with the default sfml-app that I built. If you want to build one yourself, follow the steps below. Please also note that, I've was using the Mac version of SFML, so variations may occur.
+A Simple C++ SFML Game (My very first game). I've provided with the default sfml-app that I built. To simply play, download all the files, open the terminal into your dir, and type in, ./sfml-app. If you want to build one yourself, follow the steps below. Please also note that, I've was using the Mac version of SFML, so variations may occur.
 
 
 To build and run an SFML (Simple and Fast Multimedia Library) application in C++, you'll need to follow these general steps:
